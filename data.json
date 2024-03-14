@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "cover": "./src/assets/img/cover_photo1",
+    "title": "The Mystery of Moonlight Manor",
+    "author": "Eleanor Smith",
+    "author_img": "./src/assets/img/au1.png",
+    "post_date": "2024-03-15",
+    "reading_time": "45 minutes",
+    "hashtags": ["mystery", "thriller", "moonlight"]
+  },
+
+  {
+    "Id": 2,
+    "cover": "./src/assets/img/cover_photo2",
+    "title": "Secrets of the Enchanted Forest",
+    "author": "Samuel Green",
+    "author_img": "./src/assets/img/au2.png",
+    "post_date": "2024-03-14",
+    "reading_time": "30 minutes",
+    "hashtags": ["fantasy", "magic", "adventure"]
+  },
+
+  {
+    "Id": 3,
+    "cover": "./src/assets/img/cover_photo3",
+    "title": "Coding Chronicles",
+    "author": "Alex Johnson",
+    "author_img": "./src/assets/img/au3.png",
+    "post_date": "2024-03-13",
+    "reading_time": "60 minutes",
+    "hashtags": ["coding", "technology", "programming"]
+  },
+
+  {
+    "Id": 4,
+    "cover": "./src/assets/img/cover_photo4",
+    "title": "The Art of Cooking",
+    "author": "Sophia Lee",
+    "author_img": "./src/assets/img/au4.png",
+    "post_date": "2024-03-12",
+    "reading_time": "50 minutes",
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+
+  {
+    "Id": 5,
+    "cover": "./src/assets/img/cover_photo5",
+    "title": "Exploring the Universe",
+    "author": "Michael Brown",
+    "author_img": "./src/assets/img/au5.png",
+    "post_date": "2024-03-11",
+    "reading_time": "75 minutes",
+    "hashtags": ["space", "science", "exploration"]
+  }
+]
